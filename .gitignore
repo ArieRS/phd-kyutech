@@ -1,0 +1,14 @@
+.bash_history
+.bash_logout
+.bashrc
+.cache/
+.gitconfig
+.keras/
+.lesshst
+.local/
+.profile
+.pyenv/
+.python_history
+.ssh/
+.viminfo
+.wget-hsts
